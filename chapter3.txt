@@ -1,0 +1,4 @@
+Now after chapter2, we learned about git checkout and how to handle/ remove changes.
+if saved locally w/o commit to local git repo., we can revert back to prev commit using "git checkout".
+use "git checkout chapter2.txt". 
+ 
