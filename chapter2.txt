@@ -1,0 +1,4 @@
+this is the second chapter of learning git control.
+here we learned git log, git status.
+we brought chapter1 to staging area using 'git add'.
+and we made commit using 'git commit -m '.
