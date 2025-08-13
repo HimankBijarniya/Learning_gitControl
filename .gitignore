@@ -1,3 +1,2 @@
 secrets.txt
-
 # we can use "*.txt", so it will ignore all files with .txt extension.
