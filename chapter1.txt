@@ -2,3 +2,5 @@ this is chapter 1 of learning git control.
 step1: create a file.
 step2: git init 
 this will initialize an empty git repository inside the folder(fitControl).
+
+this change is done via notmain branch in order to learn its working.
